@@ -1,0 +1,21 @@
+
+.el-table--enable-row-hover .el-table__body tr:hover>td{
+  background-color:#E4E7ED;
+}
+
+.el-table td, .el-table th{
+  padding:3px 0
+}
+
+.el-table--small td, .el-table--small th{
+  padding:4px 0
+}
+
+.el-table--striped .el-table__body tr.el-table__row--striped.current-row td, 
+.el-table__body tr.current-row>td, 
+.el-table__body tr.hover-row.current-row>td, 
+.el-table__body tr.hover-row.el-table__row--striped.current-row>td, 
+.el-table__body tr.hover-row.el-table__row--striped>td, 
+.el-table__body tr.hover-row>td {
+  background-color:#E4E7ED;
+}

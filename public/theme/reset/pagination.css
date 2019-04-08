@@ -1,0 +1,6 @@
+.el-pagination{
+    padding:2px;
+}
+.el-pagination span, .el-pagination button {
+    font-size: 12px;
+}

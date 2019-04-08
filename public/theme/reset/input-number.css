@@ -1,0 +1,9 @@
+.el-input-number{
+  line-height:30px;
+  width:140px;
+}
+.el-input-number__decrease , .el-input-number__increase{
+  border-top: 1px solid #dcdfe6;
+  border-bottom: 1px solid #dcdfe6;
+  height: 26px;
+}
